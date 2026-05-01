@@ -1,0 +1,10 @@
+function calcNUST() {
+  let matric = document.getElementById("matric").value;
+  let fsc = document.getElementById("fsc").value;
+  let test = document.getElementById("test").value;
+
+  let result = (matric * 0.10) + (fsc * 0.40) + (test * 0.50);
+
+  document.getElementById("result").innerHTML =
+    "Your Aggregate: " + result.toFixed(2) + "%";
+}

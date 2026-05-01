@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Pakistan Merit Calculator Hub 2026</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h1>🎓 Pakistan Merit Calculator Hub</h1>
+<p>Check your university merit instantly</p>
+
+<div class="links">
+  <a href="nust.html">NUST Calculator</a>
+  <a href="fast.html">FAST Calculator</a>
+  <a href="air.html">Air University Calculator</a>
+</div>
+
+</body>
+</html>

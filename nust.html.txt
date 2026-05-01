@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>NUST Merit Calculator 2026</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h2>NUST Merit Calculator</h2>
+
+<input id="matric" placeholder="Matric %" type="number">
+<input id="fsc" placeholder="FSc %" type="number">
+<input id="test" placeholder="Entry Test %" type="number">
+
+<button onclick="calcNUST()">Calculate</button>
+
+<h3 id="result"></h3>
+
+<script src="script.js"></script>
+</body>
+</html>
